@@ -21,7 +21,7 @@ O Quidditch Team é um site que permite o cadastro de jogadores para os times de
 
 ## Feito por:
 ### Bruna Pupo
-### Quidditch Team: https://quidditch-team-react.vercel.app/
+### Site Quidditch Team: https://quidditch-team-react.vercel.app/
 ### Linkedin: https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/
 
 
