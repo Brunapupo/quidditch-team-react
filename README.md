@@ -7,7 +7,8 @@ O Quidditch Team é um site que permite o cadastro de jogadores para os times de
 ![image](https://github.com/Brunapupo/quidditch-team-react/assets/112135250/d66c2e4b-59cc-4b6d-84af-d66d46507a2c)
 ![image](https://github.com/Brunapupo/quidditch-team-react/assets/112135250/ae8eb51a-dbc1-4667-b159-e324a42e427a)
 ![image](https://github.com/Brunapupo/quidditch-team-react/assets/112135250/fd127622-fe92-422f-bc92-5a73ad414760)
-![image](https://github.com/Brunapupo/quidditch-team-react/assets/112135250/a93b86ed-533c-4c10-96c3-1537973af017)
+![image](https://github.com/Brunapupo/quidditch-team-react/assets/112135250/283baca7-d6d3-4a73-8029-62d97f90a63e)
+
 
 
 
