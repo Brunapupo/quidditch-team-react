@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'HarryP-MVZ6w';
+    src: url("../../../public/font/HarryP-MVZ6w.ttf");
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+    font-family: 'HarryP-MVZ6w', sans-serif;
+    font-size: 40px;
+}
+
+.formulario form {
+    max-width: 80%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0 0.08);
+}
+
